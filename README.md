@@ -40,4 +40,4 @@ python train.py --expr_name Her2st --data_path ./hest1k_datasets/Her2st/ --slide
 - `--device`: GPU device to use (default: "cuda:0").
 
 ## Contact details
-If you have any questions, please contact aixoneeee@gmail.com.
+If you have any questions, please contact minwenwen@ynu.edu.cn.
