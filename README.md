@@ -16,7 +16,7 @@ To download the datasets and perform preprocessing, you need a Hugging Face toke
     -   `preprocess.ipynb` to load the UNI model for feature extraction.
 
 ## Data
-The datasets employed in this article can be downloaded via the [dataset_download_hest1k.ipynb](dataset_download_hest1k.ipynb) notebook included in this repository. This notebook provides scripts to acquire the Her2ST, cSCC, DLPFC, and PRAD datasets used for our evaluations.
+All the datasets used in this paper can be downloaded from url:(https://zenodo.org/records/17709073)
 ### Data format
 - `st/`: Contains spatial transcriptomics data.
 - `wsis/`: Contains original Whole Slide Images.
